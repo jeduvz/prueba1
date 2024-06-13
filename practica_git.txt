@@ -1,3 +1,0 @@
-# Primer cambio realizado.
-
-## Flujo de trabajo realizado en git.
